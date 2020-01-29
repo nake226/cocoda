@@ -1,0 +1,20 @@
+<svg id="baseline-view_module-24px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f2325e;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #aaa;
+      }
+    </style>
+  </defs>
+  <path id="パス_8" data-name="パス 8" class="cls-1" d="M4,15.627H14.535V5H4Zm0,12.4H14.535V17.4H4Zm12.642,0H27.176V17.4H16.642Zm0-12.4H27.176V5H16.642Z" transform="translate(0 -0.012)"/>
+  <path id="パス_9" data-name="パス 9" class="cls-2" d="M0,0H32V32H0Z"/>
+  <path id="パス_10" data-name="パス 10" class="cls-3" d="M4,15.627H14.535V5H4Zm0,12.4H14.535V17.4H4Zm12.642,0H27.176V17.4H16.642Zm0-12.4H27.176V5H16.642Z" transform="translate(0 -0.012)"/>
+</svg>
