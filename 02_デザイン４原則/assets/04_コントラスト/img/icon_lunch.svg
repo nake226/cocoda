@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-icon_lunch">
+      <rect width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="icon_lunch" clip-path="url(#clip-icon_lunch)">
+    <g id="baseline-wb_sunny-24px" transform="translate(2 2)">
+      <path id="パス_28" data-name="パス 28" d="M0,0H12V12H0Z" fill="none"/>
+      <path id="パス_29" data-name="パス 29" d="M3.88,2.7l-.9-.9-.7.705L3.17,3.4ZM2.5,5.525H1v1H2.5ZM7,.55H6V2.025H7V.55Zm3.725,1.955-.7-.705-.9.9.7.7Zm-1.6,6.85.9.9.7-.7-.9-.9-.7.7Zm1.38-3.83v1H12v-1Zm-4-2.5a3,3,0,1,0,3,3A3,3,0,0,0,6.5,3.025ZM6,11.5H7V10.025H6ZM2.275,9.545l.7.7.895-.9-.7-.7Z" transform="translate(-0.5 -0.275)" fill="#f29e2b"/>
+    </g>
+  </g>
+</svg>
